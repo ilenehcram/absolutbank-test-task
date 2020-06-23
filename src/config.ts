@@ -1,0 +1,1 @@
+export const API_URL = "https://run.mocky.io/v3/15f20bd0-c374-4fae-a084-258b501ce86d";
