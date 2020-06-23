@@ -7,7 +7,7 @@ import StatusItem from './StatusItem';
 const Container = styled.div`
     display: inline-flex;
     flex-wrap: wrap;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 `;
 
 interface Props {

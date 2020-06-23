@@ -5,8 +5,8 @@ import Person from '../../../../../../../api/models/orders/Person';
 
 const Container = styled.div`
     background-color: #EAECF5;
-    padding: 10px;
-    margin: 0px -10px 5px -10px;
+    padding: 15px 10px;
+    margin: 0px -10px 15px -10px;
 `;
 
 interface Props {
