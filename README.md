@@ -13,7 +13,7 @@ yarn start
 ```bash
 yarn build
 ```
-[Демо]"https://ilenehcram.github.io/absolutbank-test-task/"
+[Демо](https://ilenehcram.github.io/absolutbank-test-task/)
 
 Примерное время, затраченное на выполнение задания, 6 ч.
 
