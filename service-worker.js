@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/absolutbank-test-task/precache-manifest.439dc0c2e85bab7b813773c3e20c5a51.js"
+  "/absolutbank-test-task/precache-manifest.3787431ab311fa09ba99d2d58f0432d7.js"
 );
 
 self.addEventListener('message', (event) => {
